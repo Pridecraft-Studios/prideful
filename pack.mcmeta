@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 13,
+    "supported_formats": [13, 9999],
+    "description": "Prideful 1.0 | Bundles of Pride! [Based on Faithful 32x]"
+  },
+ "overlays": {
+    "entries": [
+      {
+        "formats": [
+          16,
+          9999
+        ],
+        "directory": "format16"
+      }
+    ]
+  }
+}
