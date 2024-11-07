@@ -1,6 +1,6 @@
 # Prideful
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/yPbBrzEX?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/faitfulpride/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/faitfulpride?style=for-the-badge&logo=github)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/lhR999ph?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/prideful/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/prideful?style=for-the-badge&logo=github)
 
 This is Prideful, a Resource Pack based on [Faithful](https://faithfulpack.net/) made by [Pridecraft Studios](https://pridecraft.gay). It comes with many LGBT Pride additions, such as paintings, beds, mobs and Main Menu changes in a 32x resolution.
 
@@ -35,7 +35,7 @@ We make Resource Packs and mods to add LGBT themed stuff to the game, while tryi
 
 ## Other Downloads
 
-[![Download on Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/project/faitfulpride) [![Download on CurseForge](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/texture-packs/pride-pack) [![Check out the GitHub](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/github_vector.svg)](https://git.pridecraft.gay/faithfulpride)
+[![Download on Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/project/prideful) [![Download on CurseForge](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/texture-packs/prideful) [![Check out the GitHub](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/github_vector.svg)](https://git.pridecraft.gay/prideful)
 
 ## Socials
 
