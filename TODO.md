@@ -10,6 +10,7 @@
 - [X] Brush item texture
 - [ ] Panorama using Prideful's and Faithful 32x's textures
 - [ ] Fox textures (Thigh Highs)
+- [ ] Pride Sheet beds
 
 ## Technical
 
