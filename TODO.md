@@ -5,12 +5,12 @@
 - [X] courbet, creebet, donkey_kong, skeleton paintings in 32x resolution
 - [X] bouquet, endboss paintings (worldwidepixel) in 32x resolution
 - [X] humble painting (blurry) in 32x resolution
-- [ ] Candle block textures
+- [X] Candle block textures
 - [ ] Candle item textures
 - [X] Brush item texture
 - [ ] Panorama using Prideful's and Faithful 32x's textures
 - [ ] Fox textures (Thigh Highs)
-- [ ] Pride bed sheets
+- [X] Pride bed sheets
 
 ## Technical
 
