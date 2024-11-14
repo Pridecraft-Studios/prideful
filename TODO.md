@@ -11,6 +11,7 @@
 - [ ] Panorama using Prideful's and Faithful 32x's textures
 - [ ] Fox textures (Thigh Highs)
 - [X] Pride bed sheets
+- [ ] Cocoa Lesbeans textures
 
 ## Technical
 
