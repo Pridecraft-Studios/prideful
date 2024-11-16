@@ -9,9 +9,10 @@
 - [X] Candle item textures
 - [X] Brush item texture
 - [ ] Panorama using Prideful's and Faithful 32x's textures
-- [ ] Fox textures (Thigh Highs)
+- [X] Fox textures (Thigh Highs)
 - [X] Pride bed sheets
 - [X] Cocoa Lesbeans textures
+- [ ] Prideful Rosette
 
 ## Technical
 
