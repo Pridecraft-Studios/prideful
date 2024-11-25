@@ -1,7 +1,7 @@
 # Prideful
 
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/lhR999ph?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge)][Modrinth]
-[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1145806?logo=curseforge&label=CurseForge&color=%23f16436&style=for-the-badge&)][CurseForge]
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/lhR999ph?logo=modrinth&label=Modrinth%20downloads&color=1bd96a&style=for-the-badge)][Modrinth]
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1145806?logo=curseforge&label=CurseForge&color=f16436&style=for-the-badge&)][CurseForge]
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/prideful/total?style=for-the-badge&logo=github&label=Github%20Downloads)][Git Downloads]
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/prideful?style=for-the-badge&logo=github)][Git Commits]
 
