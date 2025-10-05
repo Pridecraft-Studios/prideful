@@ -1,17 +1,30 @@
 {
   "pack": {
+	"min_format": 13,
+	"max_format": 9999,
     "pack_format": 13,
     "supported_formats": [13, 9999],
-    "description": "Prideful 1.0 | Bundles of Pride! [Based on Faithful 32x]"
+    "description": "Prideful 10.0 | The Queer Age! [Based on Faithful 32x]"
   },
  "overlays": {
     "entries": [
       {
-        "formats": [
-          16,
-          9999
-        ],
+		"min_format": 16,
+		"max_format": 9999,
+        "formats": [16,9999],
         "directory": "format16"
+      },
+      {
+        "min_format": 49,
+        "max_format": 9999,
+        "formats": [49, 64],
+        "directory": "format49"
+      },
+      {
+        "min_format": 53,
+        "max_format": 9999,
+        "formats": [53, 64],
+        "directory": "format53"
       }
     ]
   }
