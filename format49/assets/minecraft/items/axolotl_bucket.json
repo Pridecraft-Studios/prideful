@@ -1,0 +1,48 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:axolotl/variant",
+    "cases": [
+      {
+        "when": "blue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/mlm_axolotl_bucket"
+        }
+      },
+      {
+        "when": "cyan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/lesbian_axolotl_bucket"
+        }
+      },
+      {
+        "when": "gold",
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/progress_axolotl_bucket"
+        }
+      },
+      {
+        "when": "lucy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/trans_axolotl_bucket"
+        }
+      },
+      {
+        "when": "wild",
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/aroace_axolotl_bucket"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/axolotl_bucket"
+    }
+  }
+}
