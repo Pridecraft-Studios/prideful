@@ -1,5 +1,5 @@
 {
-    id: "pridepack",
+    id: "prideful",
     version: 8,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
