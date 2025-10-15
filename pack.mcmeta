@@ -1,9 +1,9 @@
 {
   "pack": {
-	"min_format": 13,
+	"min_format": 15,
 	"max_format": 9999,
-    "pack_format": 13,
-    "supported_formats": [13, 9999],
+    "pack_format": 15,
+    "supported_formats": [15, 9999],
     "description": "Prideful 10.0 | The Queer Age! [Based on Faithful 32x]"
   },
  "overlays": {
